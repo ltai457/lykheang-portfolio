@@ -1,12 +1,28 @@
-# React + Vite
+# Lykheang Taing - Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About
+Full-Stack Developer and Data Enthusiast with Master of Information Technology (First Class Honours) from University of Auckland.
 
-Currently, two official plugins are available:
+## Tech Stack
+- **Frontend:** React, Next.js, SwiftUI, Tailwind CSS
+- **Backend:** Node.js, ASP.NET Core, Spring Boot, Python
+- **Database:** SQL, MongoDB, Redis
+- **Cloud:** AWS, Firebase, Vercel
+- **AI/ML:** OpenAI API, Computer Vision, Data Analytics
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Projects
+- **MediMate:** AI-powered medication scanner (SwiftUI + OpenAI)
+- **Music Platform:** MERN stack with Spotify integration
+- **Data Analytics:** IBM SPSS + Python for business insights
+- **Enterprise Backend:** ASP.NET Core with JWT authentication
+- **Retail Analytics:** Advanced SQL analysis of 8K+ records
 
-## Expanding the ESLint configuration
+## Contact
+- **Email:** tainglykheang0306@gmail.com
+- **LinkedIn:** [taing-lykheang-0860442](https://www.linkedin.com/in/taing-lykheang-0860442)
+- **Location:** Auckland, New Zealand
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Installation
+```bash
+npm install
+npm run dev

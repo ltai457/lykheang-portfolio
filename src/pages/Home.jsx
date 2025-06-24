@@ -25,7 +25,7 @@ const Home = () => {
               {/* Main Profile Image - Simplified styling */}
               <div className="w-64 h-64 md:w-80 md:h-80 lg:w-96 lg:h-96 rounded-full overflow-hidden shadow-2xl">
                 <img 
-                  src="/src/assets/profile.jpg" 
+                  src="/assets/profile.jpg" 
                   alt="Lykheang Taing"
                   className="w-full h-full object-cover rounded-full"
                 />

@@ -25,7 +25,7 @@ const Home = () => {
               {/* Main Profile Image - Simplified styling */}
               <div className="w-64 h-64 md:w-80 md:h-80 lg:w-96 lg:h-96 rounded-full overflow-hidden shadow-2xl">
                 <img 
-                  src="/assets/profile.jpg"
+                  src="/profile.jpg"
                   alt="Lykheang Taing"
                   className="w-full h-full object-cover rounded-full"
                 />
@@ -70,7 +70,7 @@ const Home = () => {
               </button>
 
               <a 
-                href="/assets/LykheangTaing.pdf"
+                href="/LykheangTaing.pdf"
                 download 
                 className={`px-10 py-3 border rounded-full border-gray-500 flex items-center gap-2 bg-white text-black hover:scale-105 transition-all duration-600 ${
                   isVisible ? 'translate-y-0 opacity-100' : 'translate-y-8 opacity-0'
